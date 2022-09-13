@@ -1,0 +1,11 @@
+                    Practical List exe 1 
+     1. select sname from student;
+     2. select sname,school,std from student;
+     3. select sname from student where school='sharda';
+     4. select sname from student where sname like 'r%';
+     9. select school from student;
+     15. select sname from student where gender='m';
+     25. delete from student where school='xavier';
+     29. delete from stud2 where smarks, <"50";
+     35. alter table stud3 drop column fees;
+     11. N/A
