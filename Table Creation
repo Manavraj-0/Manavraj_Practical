@@ -1,0 +1,17 @@
+create table student11(sno number(3) primary key,school varchar(20), sname varchar(30), std number(2),gender varchar(1),hobby varchar(20));
+
+insert into student11 values(1,'sharda','pratixa',5,'f','cricket');
+insert into student11 values(2,'a-one','deepam',5,'m','painting');
+insert into student11 values(3,'stkabir','nisha',5,'f','cricket');
+insert into student11 values(4,'hbk','ram',5,'m','singing');
+insert into student11 values(5,'somlalit','meet',5,'m','painting');
+insert into student11 values(6,'xavier','urvi',6,'f','karate');
+insert into student11 values(7,'sharda','pratixa',6,'f','dance');
+insert into student11 values(8,'a-one','deepam',6,'m','singing');
+insert into student11 values(9,'stkabir','nisha',6,'f','swimming');
+insert into student11 values(10,'hbk','ram',6,'m','cricket');
+insert into student11 values(11,'somlalit','meet',7,'m','cricket');
+insert into student11 values(12,'xavier','manish',7,'f','cricket');
+insert into student11 values(13,'hbk','kavisha',7,'f','cricket');
+insert into student11 values(14,'somlalit','nayan',7,'m','dance');
+insert into student11 values(15,'xavier','kunj',7,'m','singing');
