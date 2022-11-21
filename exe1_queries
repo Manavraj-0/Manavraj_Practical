@@ -1,0 +1,4 @@
+ 1. select company from laptop;
+ 2. select model from laptop1 where company='Apple';
+ 3. select * from laptop1 where model='NoteBook';
+ 4. 
